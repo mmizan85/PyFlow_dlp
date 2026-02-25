@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PyFlow</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=JetBrains+Mono:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+
+  <!-- Canvas for animated background particles -->
+  <canvas id="bgCanvas"></canvas>
+
+  <div class="shell">
+
+    <!-- ════ HEADER ════════════════════════════════════════════════ -->
+    <header class="hdr">
+      <div class="hdr-brand">
+        <div class="brand-hex">
+          <svg viewBox="0 0 32 32" fill="none">
+            <polygon points="16,2 28,9 28,23 16,30 4,23 4,9" stroke="url(#hg)" stroke-width="1.5" fill="none"/>
+            <path d="M16 8v10M11 13l5 5 5-5" stroke="url(#hg)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <defs>
+              <linearGradient id="hg" x1="0" y1="0" x2="32" y2="32" gradientUnits="userSpaceOnUse">
+                <stop offset="0%" stop-color="#00ffb4"/>
+                <stop offset="100%" stop-color="#00b4ff"/>
+              </linearGradient>
+            </defs>
+          </svg>
+        </div>
+        <div class="brand-text">
+          <span class="brand-name">PyFlow</span>
+          <span class="brand-sub">UNIVERSAL · DL · v3</span>
+        </div>
+      </div>
+
+      <div class="hdr-right">
+        <div class="server-chip" id="serverChip">
+          <span class="sc-dot" id="scDot"></span>
+          <span class="sc-txt" id="scTxt">INIT</span>
+        </div>
+      </div>
+    </header>
+
+    <!-- ════ ERROR STRIP ═══════════════════════════════════════════ -->
+    <div class="err-strip" id="errStrip" style="display:none">
+      <svg class="err-ico" viewBox="0 0 16 16" fill="none">
+        <circle cx="8" cy="8" r="7" stroke="#ff4060" stroke-width="1.4"/>
+        <path d="M8 5v3.5M8 10.5v.5" stroke="#ff4060" stroke-width="1.5" stroke-linecap="round"/>
+      </svg>
+      <span id="errTxt">error</span>
+      <button class="err-x" id="errX">✕</button>
+    </div>
+
+    <!-- ════ MEDIA CARD ════════════════════════════════════════════ -->
+    <div class="media-card" id="mediaCard" style="display:none">
+      <div class="mc-thumb-wrap">
+        <img id="mcThumb" alt="" class="mc-thumb">
+        <div class="mc-scan"></div>
+        <div class="mc-badge" id="mcBadge">WEB</div>
+      </div>
+      <div class="mc-info">
+        <p class="mc-title" id="mcTitle">Detecting…</p>
+        <p class="mc-host" id="mcHost">—</p>
+      </div>
+    </div>
+
+    <!-- ════ URL ROW ═══════════════════════════════════════════════ -->
+    <div class="url-row">
+      <div class="url-field">
+        <svg class="url-icon" viewBox="0 0 16 16" fill="none">
+          <path d="M7 9a4 4 0 006 0l1.5-1.5A4 4 0 109 2.5L8 3.5" stroke="#00ffb4" stroke-width="1.5" stroke-linecap="round"/>
+          <path d="M9 7a4 4 0 00-6 0L1.5 8.5A4 4 0 107 13.5L8 12.5" stroke="#00ffb4" stroke-width="1.5" stroke-linecap="round"/>
+        </svg>
+        <input id="urlIn" class="url-in" type="text" placeholder="https://…  or auto-detected" spellcheck="false" autocomplete="off">
+      </div>
+      <button class="url-act-btn" id="pasteBtn" title="Paste URL">
+        <svg viewBox="0 0 16 16" fill="none">
+          <rect x="5" y="4" width="9" height="10" rx="1.5" stroke="currentColor" stroke-width="1.4"/>
+          <path d="M3 12V3a1 1 0 011-1h7" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/>
+        </svg>
+      </button>
+      <button class="url-act-btn url-clr" id="clearBtn" title="Clear">✕</button>
+    </div>
+
+    <!-- ════ CONTROLS GRID ═════════════════════════════════════════ -->
+    <div class="ctrl-grid">
+
+      <!-- Type Toggle -->
+      <div class="ctrl-block full-w">
+        <label class="ctrl-lbl">MEDIA TYPE</label>
+        <div class="type-row">
+          <button class="type-pill active" data-type="video" id="typeVideo">
+            <span class="tp-icon">🎬</span>
+            <span class="tp-name">Video</span>
+            <span class="tp-hint">MP4 / MKV / WebM</span>
+          </button>
+          <button class="type-pill" data-type="audio" id="typeAudio">
+            <span class="tp-icon">🎵</span>
+            <span class="tp-name">Audio</span>
+            <span class="tp-hint">MP3 / FLAC / M4A</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Quality -->
+      <div class="ctrl-block">
+        <label class="ctrl-lbl">QUALITY</label>
+        <div class="dial-wrap">
+          <button class="dial-btn" id="qPrev">‹</button>
+          <div class="dial-display">
+            <span class="dial-val" id="qVal">1080p</span>
+            <span class="dial-sub" id="qSub">Full HD</span>
+          </div>
+          <button class="dial-btn" id="qNext">›</button>
+        </div>
+      </div>
+
+      <!-- Format -->
+      <div class="ctrl-block">
+        <label class="ctrl-lbl">FORMAT</label>
+        <div class="dial-wrap">
+          <button class="dial-btn" id="fPrev">‹</button>
+          <div class="dial-display">
+            <span class="dial-val" id="fVal">MP4</span>
+            <span class="dial-sub" id="fSub">Video</span>
+          </div>
+          <button class="dial-btn" id="fNext">›</button>
+        </div>
+      </div>
+
+      <!-- Playlist (shown only for YouTube playlists) -->
+      <div class="ctrl-block full-w" id="plBlock" style="display:none">
+        <label class="ctrl-lbl">PLAYLIST MODE</label>
+        <div class="seg-row" id="plSeg">
+          <button class="seg-pill active" data-val="single">📹 Single Video</button>
+          <button class="seg-pill" data-val="playlist">📚 Full Playlist</button>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ════ DOWNLOAD BUTTON ════════════════════════════════════════ -->
+    <button class="dl-btn" id="dlBtn">
+      <div class="dl-btn-bg"></div>
+      <span class="dl-btn-content" id="dlContent">
+        <svg width="18" height="18" viewBox="0 0 20 20" fill="none">
+          <path d="M10 2v11M5 9l5 5 5-5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M2 15v1a2 2 0 002 2h12a2 2 0 002-2v-1" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+        SEND TO PYFLOW
+      </span>
+    </button>
+
+    <!-- ════ FOOTER STATS ════════════════════════════════════════════ -->
+    <div class="footer-stats">
+      <div class="fs-item">
+        <span class="fs-dot" id="fsDot"></span>
+        <span id="fsYtdlp" class="fs-val">yt-dlp</span>
+      </div>
+      <div class="fs-sep">|</div>
+      <div class="fs-item">
+        <span class="fs-lbl">QUEUE</span>
+        <span class="fs-val" id="fsQueue">—</span>
+      </div>
+      <div class="fs-sep">|</div>
+      <div class="fs-item">
+        <span class="fs-lbl">ACTIVE</span>
+        <span class="fs-val" id="fsActive">—</span>
+      </div>
+    </div>
+
+  </div><!-- /shell -->
+
+  <!-- ════ TOAST ══════════════════════════════════════════════════════ -->
+  <div class="toast" id="toast">
+    <span id="toastIco">✅</span>
+    <span id="toastMsg"></span>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
