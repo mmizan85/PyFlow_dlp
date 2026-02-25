@@ -1,0 +1,758 @@
+2026-02-24 13:01:42,121  INFO      download_manager  ffmpeg found: .\ffmpeg.EXE
+2026-02-24 13:01:42,121  INFO      download_manager  yt-dlp binary found: D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Scripts\yt-dlp.EXE
+2026-02-24 13:01:42,121  INFO      download_manager  DownloadManager ready  dir=C:\Users\Mohammod Mizan\Downloads\PyFlowPro_Downloads  max_concurrent=3
+2026-02-24 13:01:47,194  INFO      download_manager  Background yt-dlp update started
+2026-02-24 13:01:49,263  INFO      download_manager  yt-dlp library updated  → v2026.02.21
+2026-02-24 13:01:50,373  INFO      download_manager  yt-dlp binary update: 
+2026-02-24 13:02:06,777  INFO      download_manager  DownloadManager shutdown requested
+2026-02-24 13:02:14,993  INFO      download_manager  ffmpeg found: .\ffmpeg.EXE
+2026-02-24 13:02:14,993  INFO      download_manager  yt-dlp binary found: D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Scripts\yt-dlp.EXE
+2026-02-24 13:02:14,993  INFO      download_manager  DownloadManager ready  dir=C:\Users\Mohammod Mizan\Downloads\PyFlowPro_Downloads  max_concurrent=3
+2026-02-24 13:02:20,059  INFO      download_manager  Background yt-dlp update started
+2026-02-24 13:02:22,251  INFO      download_manager  yt-dlp library updated  → v2026.02.21
+2026-02-24 13:02:23,502  INFO      download_manager  yt-dlp binary update: 
+2026-02-24 13:02:43,829  INFO      server  Download request  title='মনে রং লেগেছে বসন্ত এসেছে 🥰🥰🥰🥰School a dance performance 💃💃💃 - YouTube'  type=audio  quality=best  format=mp3  playlist=False
+2026-02-24 13:02:43,830  INFO      download_manager  Queued  [3127f7fe]  মনে রং লেগেছে বসন্ত এসেছে 🥰🥰🥰🥰School a dance performance 💃💃💃 - YouTube
+2026-02-24 13:02:44,216  INFO      download_manager  Starting [3127f7fe] মনে রং লেগেছে বসন্ত এসেছে 🥰🥰🥰🥰School a dance performance 💃💃💃 - YouTube
+2026-02-24 13:02:50,985  INFO      download_manager  Completed [3127f7fe] মনে রং লেগেছে বসন্ত এসেছে 🥰🥰🥰🥰School a dance performance 💃💃💃 - YouTube
+2026-02-24 13:08:58,266  INFO      download_manager  DownloadManager shutdown requested
+2026-02-24 13:09:01,183  INFO      download_manager  ffmpeg found: .\ffmpeg.EXE
+2026-02-24 13:09:01,183  INFO      download_manager  yt-dlp binary found: D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Scripts\yt-dlp.EXE
+2026-02-24 13:09:01,183  INFO      download_manager  DownloadManager ready  dir=C:\Users\Mohammod Mizan\Downloads\PyFlowPro_Downloads  max_concurrent=3
+2026-02-24 13:09:06,247  INFO      download_manager  Background yt-dlp update started
+2026-02-24 13:09:10,427  INFO      download_manager  yt-dlp library updated  → v2026.02.21
+2026-02-24 13:09:12,940  INFO      download_manager  yt-dlp binary update: 
+2026-02-24 13:09:18,059  INFO      server  Download request  title='Bongshi Bajay ke ।বংশী বাজায় কে ❣️🥰 make by Bibek creation 👈 #dancevideo #dance #bibekcreation - YouTube'  type=audio  quality=0  format=mp3  playlist=False
+2026-02-24 13:09:18,059  INFO      download_manager  Queued  [b8e924e8]  Bongshi Bajay ke ।বংশী বাজায় কে ❣️🥰 make by Bibek creation 👈 #dancevideo #dance #bibekcreation - YouTube
+2026-02-24 13:09:18,340  INFO      download_manager  Starting [b8e924e8] Bongshi Bajay ke ।বংশী বাজায় কে ❣️🥰 make by Bibek creation 👈 #dancevideo #dance #bibekcreation - YouTube
+2026-02-24 13:09:27,470  INFO      download_manager  Completed [b8e924e8] Bongshi Bajay ke ।বংশী বাজায় কে ❣️🥰 make by Bibek creation 👈 #dancevideo #dance #bibekcreation - YouTube
+2026-02-24 13:09:36,551  INFO      server  Download request  title='Bongshi Bajay ke ।বংশী বাজায় কে ❣️🥰 make by Bibek creation 👈 #dancevideo #dance #bibekcreation - YouTube'  type=video  quality=1080p  format=mp4  playlist=False
+2026-02-24 13:09:36,552  INFO      download_manager  Queued  [a20b88ab]  Bongshi Bajay ke ।বংশী বাজায় কে ❣️🥰 make by Bibek creation 👈 #dancevideo #dance #bibekcreation - YouTube
+2026-02-24 13:09:36,575  INFO      download_manager  Starting [a20b88ab] Bongshi Bajay ke ।বংশী বাজায় কে ❣️🥰 make by Bibek creation 👈 #dancevideo #dance #bibekcreation - YouTube
+2026-02-24 13:09:45,838  INFO      download_manager  Completed [a20b88ab] Bongshi Bajay ke ।বংশী বাজায় কে ❣️🥰 make by Bibek creation 👈 #dancevideo #dance #bibekcreation - YouTube
+2026-02-24 13:10:35,623  INFO      server  Download request  title='Bongshi Bajay ke ।বংশী বাজায় কে ❣️🥰 make by Bibek creation 👈 #dancevideo #dance #bibekcreation - YouTube'  type=video  quality=1080p  format=mp4  playlist=False
+2026-02-24 13:10:35,623  INFO      download_manager  Queued  [5033b187]  Bongshi Bajay ke ।বংশী বাজায় কে ❣️🥰 make by Bibek creation 👈 #dancevideo #dance #bibekcreation - YouTube
+2026-02-24 13:10:35,647  INFO      download_manager  Starting [5033b187] Bongshi Bajay ke ।বংশী বাজায় কে ❣️🥰 make by Bibek creation 👈 #dancevideo #dance #bibekcreation - YouTube
+2026-02-24 13:10:44,779  ERROR     download_manager  Failed [5033b187] Bongshi Bajay ke ।বংশী বাজায় কে ❣️🥰 make by Bibek creation 👈 #dancevideo #dance #bibekcreation - YouTube: [WinError 2] The system cannot find the file specified
+Traceback (most recent call last):
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\python-cli\download_manager.py", line 190, in _process_task
+    await self._download_via_library(task)
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\python-cli\download_manager.py", line 239, in _download_via_library
+    await loop.run_in_executor(None, self._run_ydl, task.url, opts)
+  File "C:\Program Files\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\python-cli\download_manager.py", line 244, in _run_ydl
+    ydl.download([url])
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3670, in download
+    self.__download_wrapper(self.extract_info)(
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3643, in wrapper
+    res = func(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1687, in extract_info
+    return self.__extract_info(url, self.get_info_extractor(key), download, extra_info, process)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1698, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1854, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1913, in process_ie_result
+    ie_result = self.process_video_result(ie_result, download=download)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3096, in process_video_result
+    self.process_info(new_info)
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 189, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3622, in process_info
+    replace_info_dict(self.post_process(dl_filename, info_dict, files_to_move))
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3808, in post_process
+    info = self.run_all_pps('post_process', info, additional_pps=info.get('__postprocessors'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3790, in run_all_pps
+    info = self.run_pp(pp, info)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3768, in run_pp
+    files_to_delete, infodict = pp.run(infodict)
+                                ^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\postprocessor\common.py", line 23, in run
+    ret = func(self, info, *args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\postprocessor\common.py", line 128, in wrapper
+    return func(self, info)
+           ^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\postprocessor\ffmpeg.py", line 832, in run
+    self.run_ffmpeg_multiple_files(info['__files_to_merge'], temp_filename, args)
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\postprocessor\ffmpeg.py", line 322, in run_ffmpeg_multiple_files
+    return self.real_run_ffmpeg(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\postprocessor\ffmpeg.py", line 356, in real_run_ffmpeg
+    _, stderr, returncode = Popen.run(
+                            ^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\utils\_utils.py", line 919, in run
+    with cls(*args, **kwargs) as proc:
+         ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\utils\_utils.py", line 896, in __init__
+    super().__init__(args, *remaining, env=env, shell=shell, **kwargs, startupinfo=self._startupinfo)
+  File "C:\Program Files\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Program Files\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] The system cannot find the file specified
+2026-02-24 13:10:47,732  INFO      server  Download request  title='Bongshi Bajay ke ।বংশী বাজায় কে ❣️🥰 make by Bibek creation 👈 #dancevideo #dance #bibekcreation - YouTube'  type=video  quality=1080p  format=mp4  playlist=False
+2026-02-24 13:10:47,732  INFO      download_manager  Queued  [724c0c64]  Bongshi Bajay ke ।বংশী বাজায় কে ❣️🥰 make by Bibek creation 👈 #dancevideo #dance #bibekcreation - YouTube
+2026-02-24 13:10:47,877  INFO      download_manager  Starting [724c0c64] Bongshi Bajay ke ।বংশী বাজায় কে ❣️🥰 make by Bibek creation 👈 #dancevideo #dance #bibekcreation - YouTube
+2026-02-24 13:10:50,168  ERROR     download_manager  Failed [724c0c64] Bongshi Bajay ke ।বংশী বাজায় কে ❣️🥰 make by Bibek creation 👈 #dancevideo #dance #bibekcreation - YouTube: [WinError 2] The system cannot find the file specified
+Traceback (most recent call last):
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\python-cli\download_manager.py", line 190, in _process_task
+    await self._download_via_library(task)
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\python-cli\download_manager.py", line 239, in _download_via_library
+    await loop.run_in_executor(None, self._run_ydl, task.url, opts)
+  File "C:\Program Files\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\python-cli\download_manager.py", line 244, in _run_ydl
+    ydl.download([url])
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3670, in download
+    self.__download_wrapper(self.extract_info)(
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3643, in wrapper
+    res = func(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1687, in extract_info
+    return self.__extract_info(url, self.get_info_extractor(key), download, extra_info, process)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1698, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1854, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1913, in process_ie_result
+    ie_result = self.process_video_result(ie_result, download=download)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3096, in process_video_result
+    self.process_info(new_info)
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 189, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3622, in process_info
+    replace_info_dict(self.post_process(dl_filename, info_dict, files_to_move))
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3808, in post_process
+    info = self.run_all_pps('post_process', info, additional_pps=info.get('__postprocessors'))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3790, in run_all_pps
+    info = self.run_pp(pp, info)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3768, in run_pp
+    files_to_delete, infodict = pp.run(infodict)
+                                ^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\postprocessor\common.py", line 23, in run
+    ret = func(self, info, *args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\postprocessor\common.py", line 128, in wrapper
+    return func(self, info)
+           ^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\postprocessor\ffmpeg.py", line 832, in run
+    self.run_ffmpeg_multiple_files(info['__files_to_merge'], temp_filename, args)
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\postprocessor\ffmpeg.py", line 322, in run_ffmpeg_multiple_files
+    return self.real_run_ffmpeg(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\postprocessor\ffmpeg.py", line 356, in real_run_ffmpeg
+    _, stderr, returncode = Popen.run(
+                            ^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\utils\_utils.py", line 919, in run
+    with cls(*args, **kwargs) as proc:
+         ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\utils\_utils.py", line 896, in __init__
+    super().__init__(args, *remaining, env=env, shell=shell, **kwargs, startupinfo=self._startupinfo)
+  File "C:\Program Files\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Program Files\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] The system cannot find the file specified
+2026-02-24 13:11:24,667  INFO      download_manager  DownloadManager shutdown requested
+2026-02-24 13:11:27,234  INFO      download_manager  ffmpeg found: .\ffmpeg.EXE
+2026-02-24 13:11:27,234  INFO      download_manager  yt-dlp binary found: D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Scripts\yt-dlp.EXE
+2026-02-24 13:11:27,234  INFO      download_manager  DownloadManager ready  dir=C:\Users\Mohammod Mizan\Downloads\PyFlowPro_Downloads  max_concurrent=3
+2026-02-24 13:11:32,318  INFO      download_manager  Background yt-dlp update started
+2026-02-24 13:11:34,909  INFO      download_manager  yt-dlp library updated  → v2026.02.21
+2026-02-24 13:11:36,345  INFO      download_manager  yt-dlp binary update: 
+2026-02-24 13:11:44,639  INFO      server  Download request  title='Bongshi Bajay ke ।বংশী বাজায় কে ❣️🥰 make by Bibek creation 👈 #dancevideo #dance #bibekcreation - YouTube'  type=video  quality=1080p  format=mp4  playlist=False
+2026-02-24 13:11:44,639  INFO      download_manager  Queued  [8ca841cf]  Bongshi Bajay ke ।বংশী বাজায় কে ❣️🥰 make by Bibek creation 👈 #dancevideo #dance #bibekcreation - YouTube
+2026-02-24 13:11:45,045  INFO      download_manager  Starting [8ca841cf] Bongshi Bajay ke ।বংশী বাজায় কে ❣️🥰 make by Bibek creation 👈 #dancevideo #dance #bibekcreation - YouTube
+2026-02-24 13:11:54,875  INFO      download_manager  Completed [8ca841cf] Bongshi Bajay ke ।বংশী বাজায় কে ❣️🥰 make by Bibek creation 👈 #dancevideo #dance #bibekcreation - YouTube
+2026-02-24 13:12:01,483  INFO      download_manager  DownloadManager shutdown requested
+2026-02-24 13:12:32,536  INFO      download_manager  ffmpeg NOT found – install from https://ffmpeg.org or place binary next to server files
+2026-02-24 13:12:32,537  INFO      download_manager  yt-dlp binary found: D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Scripts\yt-dlp.EXE
+2026-02-24 13:12:32,537  INFO      download_manager  DownloadManager ready  dir=C:\Users\Mohammod Mizan\Downloads\PyFlowPro_Downloads  max_concurrent=3
+2026-02-24 13:12:37,615  INFO      download_manager  Background yt-dlp update started
+2026-02-24 13:12:37,647  INFO      server  Download request  title='Bongshi Bajay ke ।বংশী বাজায় কে ❣️🥰 make by Bibek creation 👈 #dancevideo #dance #bibekcreation - YouTube'  type=video  quality=1080p  format=mp4  playlist=False
+2026-02-24 13:12:37,648  INFO      download_manager  Queued  [3a5a93fd]  Bongshi Bajay ke ।বংশী বাজায় কে ❣️🥰 make by Bibek creation 👈 #dancevideo #dance #bibekcreation - YouTube
+2026-02-24 13:12:37,662  INFO      download_manager  Starting [3a5a93fd] Bongshi Bajay ke ।বংশী বাজায় কে ❣️🥰 make by Bibek creation 👈 #dancevideo #dance #bibekcreation - YouTube
+2026-02-24 13:12:39,947  INFO      download_manager  yt-dlp library updated  → v2026.02.21
+2026-02-24 13:12:40,162  ERROR     download_manager  Failed [3a5a93fd] Bongshi Bajay ke ।বংশী বাজায় কে ❣️🥰 make by Bibek creation 👈 #dancevideo #dance #bibekcreation - YouTube: ERROR: You have requested merging of multiple formats but ffmpeg is not installed. Aborting due to --abort-on-error
+Traceback (most recent call last):
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\python-cli\download_manager.py", line 190, in _process_task
+    await self._download_via_library(task)
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\python-cli\download_manager.py", line 239, in _download_via_library
+    await loop.run_in_executor(None, self._run_ydl, task.url, opts)
+  File "C:\Program Files\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\python-cli\download_manager.py", line 244, in _run_ydl
+    ydl.download([url])
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3670, in download
+    self.__download_wrapper(self.extract_info)(
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3643, in wrapper
+    res = func(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1687, in extract_info
+    return self.__extract_info(url, self.get_info_extractor(key), download, extra_info, process)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1698, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1854, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1913, in process_ie_result
+    ie_result = self.process_video_result(ie_result, download=download)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3096, in process_video_result
+    self.process_info(new_info)
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 189, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3502, in process_info
+    self.report_error(f'{msg}. Aborting due to --abort-on-error')
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1154, in report_error
+    self.trouble(f'{self._format_err("ERROR:", self.Styles.ERROR)} {message}', *args, **kwargs)
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1093, in trouble
+    raise DownloadError(message, exc_info)
+yt_dlp.utils.DownloadError: ERROR: You have requested merging of multiple formats but ffmpeg is not installed. Aborting due to --abort-on-error
+2026-02-24 13:12:41,203  INFO      download_manager  yt-dlp binary update: 
+2026-02-24 13:13:20,579  INFO      download_manager  DownloadManager shutdown requested
+2026-02-24 13:13:23,229  INFO      download_manager  ffmpeg found: D:\App  folder\Downloads\bin\ffmpeg.EXE
+2026-02-24 13:13:23,230  INFO      download_manager  yt-dlp binary found: D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Scripts\yt-dlp.EXE
+2026-02-24 13:13:23,230  INFO      download_manager  DownloadManager ready  dir=C:\Users\Mohammod Mizan\Downloads\PyFlowPro_Downloads  max_concurrent=3
+2026-02-24 13:13:28,308  INFO      download_manager  Background yt-dlp update started
+2026-02-24 13:13:28,407  INFO      server  Download request  title='Bongshi Bajay ke ।বংশী বাজায় কে ❣️🥰 make by Bibek creation 👈 #dancevideo #dance #bibekcreation - YouTube'  type=video  quality=1080p  format=mp4  playlist=False
+2026-02-24 13:13:28,408  INFO      download_manager  Queued  [117c0347]  Bongshi Bajay ke ।বংশী বাজায় কে ❣️🥰 make by Bibek creation 👈 #dancevideo #dance #bibekcreation - YouTube
+2026-02-24 13:13:28,883  INFO      download_manager  Starting [117c0347] Bongshi Bajay ke ।বংশী বাজায় কে ❣️🥰 make by Bibek creation 👈 #dancevideo #dance #bibekcreation - YouTube
+2026-02-24 13:13:30,696  INFO      download_manager  yt-dlp library updated  → v2026.02.21
+2026-02-24 13:13:32,033  INFO      download_manager  yt-dlp binary update: 
+2026-02-24 13:13:38,783  INFO      download_manager  Completed [117c0347] Bongshi Bajay ke ।বংশী বাজায় কে ❣️🥰 make by Bibek creation 👈 #dancevideo #dance #bibekcreation - YouTube
+2026-02-24 13:14:45,732  INFO      server  Download request  title='Jagga Jasoos: Galti Se Mistake Video Song | Ranbir, Katrina | Pritam, Arijit, Amit | Amitabh B - YouTube'  type=video  quality=2160p  format=mp4  playlist=False
+2026-02-24 13:14:45,732  INFO      download_manager  Queued  [534f589e]  Jagga Jasoos: Galti Se Mistake Video Song | Ranbir, Katrina | Pritam, Arijit, Amit | Amitabh B - YouTube
+2026-02-24 13:14:45,922  INFO      download_manager  Starting [534f589e] Jagga Jasoos: Galti Se Mistake Video Song | Ranbir, Katrina | Pritam, Arijit, Amit | Amitabh B - YouTube
+2026-02-24 13:14:52,488  INFO      download_manager  Completed [534f589e] Jagga Jasoos: Galti Se Mistake Video Song | Ranbir, Katrina | Pritam, Arijit, Amit | Amitabh B - YouTube
+2026-02-24 13:17:02,852  INFO      download_manager  DownloadManager shutdown requested
+2026-02-24 13:17:05,130  INFO      download_manager  ffmpeg found: D:\App  folder\Downloads\bin\ffmpeg.EXE
+2026-02-24 13:17:05,130  INFO      download_manager  yt-dlp binary found: D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Scripts\yt-dlp.EXE
+2026-02-24 13:17:05,130  INFO      download_manager  DownloadManager ready  dir=C:\Users\Mohammod Mizan\Downloads\PyFlowPro_Downloads  max_concurrent=3
+2026-02-24 13:17:10,273  INFO      download_manager  Background yt-dlp update started
+2026-02-24 13:17:13,633  INFO      download_manager  yt-dlp library updated  → v2026.02.21
+2026-02-24 13:17:15,665  INFO      download_manager  yt-dlp binary update: 
+2026-02-24 13:17:33,593  INFO      server  Download request  title='RANGABATI DANCE | রঙ্গবতী | GOTRO | FOLK DANCE | Surojit | Iman | Dance Cover | Bishakha Official - YouTube'  type=video  quality=2160p  format=mp4  playlist=False
+2026-02-24 13:17:33,593  INFO      download_manager  Queued  [41621ba5]  RANGABATI DANCE | রঙ্গবতী | GOTRO | FOLK DANCE | Surojit | Iman | Dance Cover | Bishakha Official - YouTube
+2026-02-24 13:17:33,594  INFO      download_manager  Starting [41621ba5] RANGABATI DANCE | রঙ্গবতী | GOTRO | FOLK DANCE | Surojit | Iman | Dance Cover | Bishakha Official - YouTube
+2026-02-24 13:17:57,504  INFO      download_manager  Completed [41621ba5] RANGABATI DANCE | রঙ্গবতী | GOTRO | FOLK DANCE | Surojit | Iman | Dance Cover | Bishakha Official - YouTube
+2026-02-24 13:18:32,681  INFO      download_manager  DownloadManager shutdown requested
+2026-02-24 19:51:48,995  INFO      download_manager  ffmpeg found: D:\App  folder\Downloads\bin\ffmpeg.EXE
+2026-02-24 19:51:48,995  INFO      download_manager  yt-dlp binary found: D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Scripts\yt-dlp.EXE
+2026-02-24 19:51:48,995  INFO      download_manager  DownloadManager ready  dir=C:\Users\Mohammod Mizan\Downloads\PyFlowPro_Downloads  max_concurrent=3
+2026-02-24 19:51:54,069  INFO      download_manager  Background yt-dlp update started
+2026-02-24 19:51:56,314  INFO      download_manager  yt-dlp library updated  → v2026.02.21
+2026-02-24 19:51:57,579  INFO      download_manager  yt-dlp binary update: 
+2026-02-24 19:52:48,521  INFO      server  Download request  title='RANGABATI DANCE | রঙ্গবতী | GOTRO | FOLK DANCE | Surojit | Iman | Dance Cover | Bishakha Official - YouTube'  type=video  quality=1080p  format=mp4  playlist=False
+2026-02-24 19:52:48,522  INFO      download_manager  Queued  [da855435]  RANGABATI DANCE | রঙ্গবতী | GOTRO | FOLK DANCE | Surojit | Iman | Dance Cover | Bishakha Official - YouTube
+2026-02-24 19:52:48,574  INFO      download_manager  Starting [da855435] RANGABATI DANCE | রঙ্গবতী | GOTRO | FOLK DANCE | Surojit | Iman | Dance Cover | Bishakha Official - YouTube
+2026-02-24 19:52:53,158  INFO      download_manager  Completed [da855435] RANGABATI DANCE | রঙ্গবতী | GOTRO | FOLK DANCE | Surojit | Iman | Dance Cover | Bishakha Official - YouTube
+2026-02-24 19:53:42,846  INFO      server  Download request  title='RANGABATI DANCE | রঙ্গবতী | GOTRO | FOLK DANCE | Surojit | Iman | Dance Cover | Bishakha Official - YouTube'  type=video  quality=1080p  format=mp4  playlist=False
+2026-02-24 19:53:42,847  INFO      download_manager  Queued  [ec865ea7]  RANGABATI DANCE | রঙ্গবতী | GOTRO | FOLK DANCE | Surojit | Iman | Dance Cover | Bishakha Official - YouTube
+2026-02-24 19:53:43,099  INFO      download_manager  Starting [ec865ea7] RANGABATI DANCE | রঙ্গবতী | GOTRO | FOLK DANCE | Surojit | Iman | Dance Cover | Bishakha Official - YouTube
+2026-02-24 19:53:47,947  INFO      download_manager  Completed [ec865ea7] RANGABATI DANCE | রঙ্গবতী | GOTRO | FOLK DANCE | Surojit | Iman | Dance Cover | Bishakha Official - YouTube
+2026-02-24 20:00:16,321  INFO      download_manager  DownloadManager shutdown requested
+2026-02-24 20:00:44,738  INFO      download_manager  ffmpeg found: D:\App  folder\Downloads\bin\ffmpeg.EXE
+2026-02-24 20:00:44,738  INFO      download_manager  yt-dlp binary found: D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Scripts\yt-dlp.EXE
+2026-02-24 20:00:44,738  INFO      download_manager  DownloadManager ready  dir=C:\Users\Mohammod Mizan\Downloads\PyFlowPro_Downloads  max_concurrent=3
+2026-02-24 20:00:49,886  INFO      download_manager  Background yt-dlp update started
+2026-02-24 20:00:52,182  INFO      download_manager  yt-dlp library updated  → v2026.02.21
+2026-02-24 20:00:53,388  INFO      download_manager  yt-dlp binary update: 
+2026-02-24 20:01:14,155  INFO      server  Download request  title='Lut Gaye (Full Song) Emraan Hashmi, Yukti | Jubin N, Tanishk B, Manoj M | Bhushan K | Radhika-Vinay - YouTube'  type=video  quality=1080p  format=mp4  playlist=False
+2026-02-24 20:01:14,156  INFO      download_manager  Queued  [3e5757df]  Lut Gaye (Full Song) Emraan Hashmi, Yukti | Jubin N, Tanishk B, Manoj M | Bhushan K | Radhika-Vinay - YouTube
+2026-02-24 20:01:14,351  INFO      download_manager  Starting [3e5757df] Lut Gaye (Full Song) Emraan Hashmi, Yukti | Jubin N, Tanishk B, Manoj M | Bhushan K | Radhika-Vinay - YouTube
+2026-02-24 20:01:21,017  INFO      download_manager  Completed [3e5757df] Lut Gaye (Full Song) Emraan Hashmi, Yukti | Jubin N, Tanishk B, Manoj M | Bhushan K | Radhika-Vinay - YouTube
+2026-02-24 20:02:39,266  INFO      download_manager  DownloadManager shutdown requested
+2026-02-24 20:03:16,136  INFO      download_manager  ffmpeg found: D:\App  folder\Downloads\bin\ffmpeg.EXE
+2026-02-24 20:03:16,136  INFO      download_manager  yt-dlp binary found: D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Scripts\yt-dlp.EXE
+2026-02-24 20:03:16,136  INFO      download_manager  DownloadManager ready  dir=C:\Users\Mohammod Mizan\Downloads\PyFlowPro_Downloads  max_concurrent=3
+2026-02-24 21:58:58,737  INFO      download_manager  Background yt-dlp update started
+2026-02-24 21:59:01,124  INFO      download_manager  DownloadManager shutdown requested
+2026-02-24 21:59:01,175  WARNING   download_manager  yt-dlp library update failed: ERROR: Operation cancelled by user
+
+2026-02-24 21:59:17,174  INFO      download_manager  ffmpeg found: D:\App  folder\Downloads\bin\ffmpeg.EXE
+2026-02-24 21:59:17,174  INFO      download_manager  yt-dlp binary found: D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Scripts\yt-dlp.EXE
+2026-02-24 21:59:17,174  INFO      download_manager  DownloadManager ready  dir=C:\Users\Mohammod Mizan\Downloads\PyFlowPro_Downloads  max_concurrent=3
+2026-02-24 21:59:22,257  INFO      download_manager  Background yt-dlp update started
+2026-02-24 21:59:24,714  INFO      download_manager  yt-dlp library updated  → v2026.02.21
+2026-02-24 21:59:26,277  INFO      download_manager  yt-dlp binary update: 
+2026-02-24 21:59:53,255  INFO      server  Download request  title='Moyna Cholat Cholat Chole Re Dance'  type=video  quality=1080p  format=mp4  playlist=False
+2026-02-24 21:59:53,255  INFO      download_manager  Queued  [eeb4ca40]  Moyna Cholat Cholat Chole Re Dance
+2026-02-24 21:59:53,562  INFO      download_manager  Starting [eeb4ca40] Moyna Cholat Cholat Chole Re Dance
+2026-02-24 22:00:05,162  INFO      download_manager  Completed [eeb4ca40] Moyna Cholat Cholat Chole Re Dance
+2026-02-24 22:01:54,482  INFO      download_manager  DownloadManager shutdown requested
+2026-02-24 22:01:57,379  INFO      download_manager  ffmpeg found: D:\App  folder\Downloads\bin\ffmpeg.EXE
+2026-02-24 22:01:57,379  INFO      download_manager  yt-dlp binary found: D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Scripts\yt-dlp.EXE
+2026-02-24 22:01:57,379  INFO      download_manager  DownloadManager ready  dir=C:\Users\Mohammod Mizan\Downloads\PyFlowPro_Downloads  max_concurrent=3
+2026-02-24 22:02:02,447  INFO      download_manager  Background yt-dlp update started
+2026-02-24 22:02:04,887  INFO      download_manager  yt-dlp library updated  → v2026.02.21
+2026-02-24 22:02:06,209  INFO      download_manager  yt-dlp binary update: 
+2026-02-24 22:03:36,315  INFO      server  Received download request: Chunnari Chunnari
+2026-02-24 22:03:36,315  INFO      server  URL: https://www.youtube.com/watch?v=RX-2sEemAF4&list=RDZkzUoQaHivU&index=8
+2026-02-24 22:03:36,315  INFO      server  Type: audio, Quality: 320, Format: mp3
+2026-02-24 22:03:36,315  INFO      server  Playlist: False
+2026-02-24 22:03:36,316  INFO      download_manager  Queued  [bf91fe0e]  Chunnari Chunnari
+2026-02-24 22:03:36,454  INFO      download_manager  Starting [bf91fe0e] Chunnari Chunnari
+2026-02-24 22:03:46,240  INFO      download_manager  Completed [bf91fe0e] Chunnari Chunnari
+2026-02-24 22:05:25,238  INFO      server  Received download request: (20+) Facebook
+2026-02-24 22:05:25,238  INFO      server  URL: https://www.facebook.com/reel/890082047108295
+2026-02-24 22:05:25,243  INFO      server  Type: video, Quality: 1080p, Format: mp4
+2026-02-24 22:05:25,244  INFO      server  Playlist: False
+2026-02-24 22:05:25,244  INFO      download_manager  Queued  [ab185119]  (20+) Facebook
+2026-02-24 22:05:25,258  INFO      download_manager  Starting [ab185119] (20+) Facebook
+2026-02-24 22:05:29,233  INFO      download_manager  Completed [ab185119] (20+) Facebook
+2026-02-24 22:06:37,863  INFO      server  Received download request: (20+) Facebook
+2026-02-24 22:06:37,864  INFO      server  URL: https://www.facebook.com/reel/4008901149401036
+2026-02-24 22:06:37,864  INFO      server  Type: video, Quality: 1080p, Format: mp4
+2026-02-24 22:06:37,864  INFO      server  Playlist: False
+2026-02-24 22:06:37,864  INFO      download_manager  Queued  [26a623c7]  (20+) Facebook
+2026-02-24 22:06:37,957  INFO      download_manager  Starting [26a623c7] (20+) Facebook
+2026-02-24 22:06:41,029  ERROR     download_manager  Failed [26a623c7] (20+) Facebook: ERROR: [facebook] 4008901149401036: Requested format is not available. Use --list-formats for a list of available formats
+Traceback (most recent call last):
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1698, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1854, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1913, in process_ie_result
+    ie_result = self.process_video_result(ie_result, download=download)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3058, in process_video_result
+    raise ExtractorError(
+yt_dlp.utils.ExtractorError: [facebook] 4008901149401036: Requested format is not available. Use --list-formats for a list of available formats
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\python-cli\download_manager.py", line 191, in _process_task
+    await self._download_via_library(task)
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\python-cli\download_manager.py", line 240, in _download_via_library
+    await loop.run_in_executor(None, self._run_ydl, task.url, opts)
+  File "C:\Program Files\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\python-cli\download_manager.py", line 245, in _run_ydl
+    ydl.download([url])
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3670, in download
+    self.__download_wrapper(self.extract_info)(
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3643, in wrapper
+    res = func(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1687, in extract_info
+    return self.__extract_info(url, self.get_info_extractor(key), download, extra_info, process)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1698, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1854, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1933, in process_ie_result
+    return self.extract_info(
+           ^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1687, in extract_info
+    return self.__extract_info(url, self.get_info_extractor(key), download, extra_info, process)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1716, in wrapper
+    self.report_error(str(e), e.format_traceback())
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1154, in report_error
+    self.trouble(f'{self._format_err("ERROR:", self.Styles.ERROR)} {message}', *args, **kwargs)
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1093, in trouble
+    raise DownloadError(message, exc_info)
+yt_dlp.utils.DownloadError: ERROR: [facebook] 4008901149401036: Requested format is not available. Use --list-formats for a list of available formats
+2026-02-24 22:09:32,229  INFO      server  Received download request: TikTok - Make Your Day
+2026-02-24 22:09:32,230  INFO      server  URL: https://www.tiktok.com/@mahimbro000/video/7607960815295139092?is_from_webapp=1&sender_device=pc
+2026-02-24 22:09:32,230  INFO      server  Type: video, Quality: 1080p, Format: mp4
+2026-02-24 22:09:32,230  INFO      server  Playlist: False
+2026-02-24 22:09:32,231  INFO      download_manager  Queued  [7e4b3ff9]  TikTok - Make Your Day
+2026-02-24 22:09:32,455  INFO      download_manager  Starting [7e4b3ff9] TikTok - Make Your Day
+2026-02-24 22:10:04,338  INFO      download_manager  Completed [7e4b3ff9] TikTok - Make Your Day
+2026-02-24 22:11:56,624  INFO      server  Received download request: Toffee - Watch Live TV, Sports, Movies, Web Series, Drama
+2026-02-24 22:11:56,624  INFO      server  URL: https://toffeelive.com/en/watch/YtNEMZUBm1RY_In7ElO7
+2026-02-24 22:11:56,625  INFO      server  Type: video, Quality: 1080p, Format: mp4
+2026-02-24 22:11:56,625  INFO      server  Playlist: False
+2026-02-24 22:11:56,625  INFO      download_manager  Queued  [6194b522]  Toffee - Watch Live TV, Sports, Movies, Web Series, Drama
+2026-02-24 22:11:56,924  INFO      download_manager  Starting [6194b522] Toffee - Watch Live TV, Sports, Movies, Web Series, Drama
+2026-02-24 22:12:00,305  ERROR     download_manager  Failed [6194b522] Toffee - Watch Live TV, Sports, Movies, Web Series, Drama: ERROR: Unsupported URL: https://toffeelive.com/en/watch/YtNEMZUBm1RY_In7ElO7
+Traceback (most recent call last):
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1698, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1833, in __extract_info
+    ie_result = ie.extract(url)
+                ^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\extractor\common.py", line 765, in extract
+    ie_result = self._real_extract(url)
+                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\extractor\generic.py", line 984, in _real_extract
+    raise UnsupportedError(url)
+yt_dlp.utils.UnsupportedError: Unsupported URL: https://toffeelive.com/en/watch/YtNEMZUBm1RY_In7ElO7
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\python-cli\download_manager.py", line 191, in _process_task
+    await self._download_via_library(task)
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\python-cli\download_manager.py", line 240, in _download_via_library
+    await loop.run_in_executor(None, self._run_ydl, task.url, opts)
+  File "C:\Program Files\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\python-cli\download_manager.py", line 245, in _run_ydl
+    ydl.download([url])
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3670, in download
+    self.__download_wrapper(self.extract_info)(
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3643, in wrapper
+    res = func(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1687, in extract_info
+    return self.__extract_info(url, self.get_info_extractor(key), download, extra_info, process)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1716, in wrapper
+    self.report_error(str(e), e.format_traceback())
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1154, in report_error
+    self.trouble(f'{self._format_err("ERROR:", self.Styles.ERROR)} {message}', *args, **kwargs)
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1093, in trouble
+    raise DownloadError(message, exc_info)
+yt_dlp.utils.DownloadError: ERROR: Unsupported URL: https://toffeelive.com/en/watch/YtNEMZUBm1RY_In7ElO7
+2026-02-24 22:15:54,005  INFO      server  Received download request: (20+) Facebook
+2026-02-24 22:15:54,005  INFO      server  URL: https://www.facebook.com/share/v/1bs4aTuSKk/
+2026-02-24 22:15:54,006  INFO      server  Type: video, Quality: 1080p, Format: mp4
+2026-02-24 22:15:54,006  INFO      server  Playlist: False
+2026-02-24 22:15:54,006  INFO      download_manager  Queued  [5d94f9f2]  (20+) Facebook
+2026-02-24 22:15:54,196  INFO      download_manager  Starting [5d94f9f2] (20+) Facebook
+2026-02-24 22:15:58,387  ERROR     download_manager  Failed [5d94f9f2] (20+) Facebook: ERROR: [facebook] 1162272706003406: Requested format is not available. Use --list-formats for a list of available formats
+Traceback (most recent call last):
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1698, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1854, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1913, in process_ie_result
+    ie_result = self.process_video_result(ie_result, download=download)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3058, in process_video_result
+    raise ExtractorError(
+yt_dlp.utils.ExtractorError: [facebook] 1162272706003406: Requested format is not available. Use --list-formats for a list of available formats
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\python-cli\download_manager.py", line 191, in _process_task
+    await self._download_via_library(task)
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\python-cli\download_manager.py", line 240, in _download_via_library
+    await loop.run_in_executor(None, self._run_ydl, task.url, opts)
+  File "C:\Program Files\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\python-cli\download_manager.py", line 245, in _run_ydl
+    ydl.download([url])
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3670, in download
+    self.__download_wrapper(self.extract_info)(
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3643, in wrapper
+    res = func(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1687, in extract_info
+    return self.__extract_info(url, self.get_info_extractor(key), download, extra_info, process)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1698, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1854, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1933, in process_ie_result
+    return self.extract_info(
+           ^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1687, in extract_info
+    return self.__extract_info(url, self.get_info_extractor(key), download, extra_info, process)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1698, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1854, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1933, in process_ie_result
+    return self.extract_info(
+           ^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1687, in extract_info
+    return self.__extract_info(url, self.get_info_extractor(key), download, extra_info, process)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1716, in wrapper
+    self.report_error(str(e), e.format_traceback())
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1154, in report_error
+    self.trouble(f'{self._format_err("ERROR:", self.Styles.ERROR)} {message}', *args, **kwargs)
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1093, in trouble
+    raise DownloadError(message, exc_info)
+yt_dlp.utils.DownloadError: ERROR: [facebook] 1162272706003406: Requested format is not available. Use --list-formats for a list of available formats
+2026-02-24 22:16:16,808  INFO      server  Received download request: (20+) Facebook
+2026-02-24 22:16:16,808  INFO      server  URL: https://www.facebook.com/share/v/1bs4aTuSKk/
+2026-02-24 22:16:16,808  INFO      server  Type: video, Quality: 1080p, Format: mp4
+2026-02-24 22:16:16,809  INFO      server  Playlist: False
+2026-02-24 22:16:16,809  INFO      download_manager  Queued  [5cd1c962]  (20+) Facebook
+2026-02-24 22:16:17,149  INFO      download_manager  Starting [5cd1c962] (20+) Facebook
+2026-02-24 22:16:20,370  ERROR     download_manager  Failed [5cd1c962] (20+) Facebook: ERROR: [facebook] 1162272706003406: Requested format is not available. Use --list-formats for a list of available formats
+Traceback (most recent call last):
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1698, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1854, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1913, in process_ie_result
+    ie_result = self.process_video_result(ie_result, download=download)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3058, in process_video_result
+    raise ExtractorError(
+yt_dlp.utils.ExtractorError: [facebook] 1162272706003406: Requested format is not available. Use --list-formats for a list of available formats
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\python-cli\download_manager.py", line 191, in _process_task
+    await self._download_via_library(task)
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\python-cli\download_manager.py", line 240, in _download_via_library
+    await loop.run_in_executor(None, self._run_ydl, task.url, opts)
+  File "C:\Program Files\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\python-cli\download_manager.py", line 245, in _run_ydl
+    ydl.download([url])
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3670, in download
+    self.__download_wrapper(self.extract_info)(
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3643, in wrapper
+    res = func(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1687, in extract_info
+    return self.__extract_info(url, self.get_info_extractor(key), download, extra_info, process)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1698, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1854, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1933, in process_ie_result
+    return self.extract_info(
+           ^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1687, in extract_info
+    return self.__extract_info(url, self.get_info_extractor(key), download, extra_info, process)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1698, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1854, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1933, in process_ie_result
+    return self.extract_info(
+           ^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1687, in extract_info
+    return self.__extract_info(url, self.get_info_extractor(key), download, extra_info, process)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1716, in wrapper
+    self.report_error(str(e), e.format_traceback())
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1154, in report_error
+    self.trouble(f'{self._format_err("ERROR:", self.Styles.ERROR)} {message}', *args, **kwargs)
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1093, in trouble
+    raise DownloadError(message, exc_info)
+yt_dlp.utils.DownloadError: ERROR: [facebook] 1162272706003406: Requested format is not available. Use --list-formats for a list of available formats
+2026-02-24 22:16:46,447  INFO      download_manager  ffmpeg found: D:\App  folder\Downloads\bin\ffmpeg.EXE
+2026-02-24 22:16:46,447  INFO      download_manager  yt-dlp binary found: D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Scripts\yt-dlp.EXE
+2026-02-24 22:16:46,447  INFO      download_manager  DownloadManager ready  dir=C:\Users\Mohammod Mizan\Downloads\PyFlowPro_Downloads  max_concurrent=3
+2026-02-24 22:16:51,622  INFO      download_manager  Background yt-dlp update started
+2026-02-24 22:16:55,061  INFO      download_manager  yt-dlp library updated  → v2026.02.21
+2026-02-24 22:16:56,785  INFO      download_manager  yt-dlp binary update: 
+2026-02-24 22:21:08,625  INFO      server  Received download request: সাইন আপ করুন | TikTok
+2026-02-24 22:21:08,625  INFO      server  URL: https://www.tiktok.com/@mysteryleader1/video/7597788968851213581?is_from_webapp=1&sender_device=pc
+2026-02-24 22:21:08,625  INFO      server  Type: video, Quality: 240p, Format: mp4
+2026-02-24 22:21:08,625  INFO      server  Playlist: False
+2026-02-24 22:21:08,626  INFO      download_manager  Queued  [e7b9db4e]  সাইন আপ করুন | TikTok
+2026-02-24 22:21:30,352  INFO      server  Received download request: সাইন আপ করুন | TikTok
+2026-02-24 22:21:30,352  INFO      server  URL: https://www.tiktok.com/@mysteryleader1/video/7597788968851213581?is_from_webapp=1&sender_device=pc
+2026-02-24 22:21:30,352  INFO      server  Type: video, Quality: 240p, Format: mp4
+2026-02-24 22:21:30,352  INFO      server  Playlist: False
+2026-02-24 22:21:30,352  INFO      download_manager  Queued  [fc66f0b5]  সাইন আপ করুন | TikTok
+2026-02-24 22:21:39,903  INFO      server  Received download request: সাইন আপ করুন | TikTok
+2026-02-24 22:21:39,903  INFO      server  URL: https://www.tiktok.com/@mysteryleader1/video/7597788968851213581?is_from_webapp=1&sender_device=pc
+2026-02-24 22:21:39,903  INFO      server  Type: video, Quality: 240p, Format: mp4
+2026-02-24 22:21:39,903  INFO      server  Playlist: False
+2026-02-24 22:21:39,903  INFO      download_manager  Queued  [7cae5321]  সাইন আপ করুন | TikTok
+2026-02-24 22:27:34,788  INFO      server  Received download request: Bala Nacho To Dekhi Remix
+2026-02-24 22:27:34,789  INFO      server  URL: https://www.youtube.com/watch?v=41qtgK6KgdY&list=RDZkzUoQaHivU&index=12
+2026-02-24 22:27:34,789  INFO      server  Type: video, Quality: 360p, Format: mp4
+2026-02-24 22:27:34,789  INFO      server  Playlist: False
+2026-02-24 22:27:34,789  INFO      download_manager  Queued  [22adaf68]  Bala Nacho To Dekhi Remix
+2026-02-24 22:27:46,267  INFO      download_manager  Starting [e7b9db4e] সাইন আপ করুন | TikTok
+2026-02-24 22:27:46,267  INFO      download_manager  Starting [fc66f0b5] সাইন আপ করুন | TikTok
+2026-02-24 22:27:46,362  INFO      download_manager  Starting [7cae5321] সাইন আপ করুন | TikTok
+2026-02-24 22:27:50,398  INFO      download_manager  Starting [22adaf68] Bala Nacho To Dekhi Remix
+2026-02-24 22:27:50,698  ERROR     download_manager  Failed [22adaf68] Bala Nacho To Dekhi Remix: <rich.file_proxy.FileProxy object at 0x000001D5B883FE50>
+Traceback (most recent call last):
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\python-cli\download_manager.py", line 191, in _process_task
+    await self._download_via_library(task)
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\python-cli\download_manager.py", line 240, in _download_via_library
+    await loop.run_in_executor(None, self._run_ydl, task.url, opts)
+  File "C:\Program Files\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\python-cli\download_manager.py", line 244, in _run_ydl
+    with yt_dlp.YoutubeDL(opts) as ydl:
+         ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 696, in __init__
+    name: process_color_policy(stream)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 683, in process_color_policy
+    stream_name = {sys.stdout: 'stdout', sys.stderr: 'stderr'}[stream]
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+KeyError: <rich.file_proxy.FileProxy object at 0x000001D5B883FE50>
+2026-02-24 22:27:50,709  INFO      download_manager  DownloadManager shutdown requested
+2026-02-24 22:28:08,275  INFO      download_manager  ffmpeg found: D:\App  folder\Downloads\bin\ffmpeg.EXE
+2026-02-24 22:28:08,275  INFO      download_manager  yt-dlp binary found: D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Scripts\yt-dlp.EXE
+2026-02-24 22:28:08,275  INFO      download_manager  DownloadManager ready  dir=C:\Users\Mohammod Mizan\Downloads\PyFlowPro_Downloads  max_concurrent=3
+2026-02-24 22:28:18,266  INFO      download_manager  Background yt-dlp update started
+2026-02-24 22:28:25,978  INFO      download_manager  yt-dlp library updated  → v2026.02.21
+2026-02-24 22:28:30,977  INFO      download_manager  yt-dlp binary update: Latest version: stable@2026.02.21 from yt-dlp/yt-dlp
+yt-dlp is up to date (stable@2026.02.21 from yt
+2026-02-24 22:28:44,001  INFO      server  Received download request: Bala Nacho To Dekhi Remix
+2026-02-24 22:28:44,001  INFO      server  URL: https://www.youtube.com/watch?v=41qtgK6KgdY&list=RDZkzUoQaHivU&index=12
+2026-02-24 22:28:44,001  INFO      server  Type: video, Quality: 720p, Format: mp4
+2026-02-24 22:28:44,002  INFO      server  Playlist: False
+2026-02-24 22:28:44,002  INFO      download_manager  Queued  [daf7434a]  Bala Nacho To Dekhi Remix
+2026-02-24 22:28:44,444  INFO      download_manager  Starting [daf7434a] Bala Nacho To Dekhi Remix
+2026-02-24 22:29:05,873  INFO      download_manager  Completed [daf7434a] Bala Nacho To Dekhi Remix
+2026-02-24 22:31:21,149  INFO      server  Received download request: (20+) Facebook
+2026-02-24 22:31:21,150  INFO      server  URL: https://www.facebook.com/reel/4008901149401036
+2026-02-24 22:31:21,150  INFO      server  Type: video, Quality: 720p, Format: mp4
+2026-02-24 22:31:21,150  INFO      server  Playlist: False
+2026-02-24 22:31:21,150  INFO      download_manager  Queued  [5278ba0d]  (20+) Facebook
+2026-02-24 22:31:21,542  INFO      download_manager  Starting [5278ba0d] (20+) Facebook
+2026-02-24 22:31:24,404  ERROR     download_manager  Failed [5278ba0d] (20+) Facebook: ERROR: [facebook] 4008901149401036: Requested format is not available. Use --list-formats for a list of available formats
+Traceback (most recent call last):
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1698, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1854, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1913, in process_ie_result
+    ie_result = self.process_video_result(ie_result, download=download)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3058, in process_video_result
+    raise ExtractorError(
+yt_dlp.utils.ExtractorError: [facebook] 4008901149401036: Requested format is not available. Use --list-formats for a list of available formats
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\python-cli\download_manager.py", line 191, in _process_task
+    await self._download_via_library(task)
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\python-cli\download_manager.py", line 240, in _download_via_library
+    await loop.run_in_executor(None, self._run_ydl, task.url, opts)
+  File "C:\Program Files\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\python-cli\download_manager.py", line 245, in _run_ydl
+    ydl.download([url])
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3670, in download
+    self.__download_wrapper(self.extract_info)(
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3643, in wrapper
+    res = func(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1687, in extract_info
+    return self.__extract_info(url, self.get_info_extractor(key), download, extra_info, process)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1698, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1854, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1933, in process_ie_result
+    return self.extract_info(
+           ^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1687, in extract_info
+    return self.__extract_info(url, self.get_info_extractor(key), download, extra_info, process)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1716, in wrapper
+    self.report_error(str(e), e.format_traceback())
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1154, in report_error
+    self.trouble(f'{self._format_err("ERROR:", self.Styles.ERROR)} {message}', *args, **kwargs)
+  File "D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1093, in trouble
+    raise DownloadError(message, exc_info)
+yt_dlp.utils.DownloadError: ERROR: [facebook] 4008901149401036: Requested format is not available. Use --list-formats for a list of available formats
+2026-02-25 17:08:30,011  INFO      download_manager  ffmpeg found: D:\App  folder\Downloads\bin\ffmpeg.EXE
+2026-02-25 17:08:30,011  INFO      download_manager  yt-dlp binary found: D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Scripts\yt-dlp.EXE
+2026-02-25 17:08:30,011  INFO      download_manager  DownloadManager ready  dir=C:\Users\Mohammod Mizan\Downloads\PyFlowPro_Downloads  max_concurrent=3
+2026-02-25 17:08:35,094  INFO      download_manager  Background yt-dlp update started
+2026-02-25 17:08:37,216  INFO      download_manager  yt-dlp library updated  → v2026.02.21
+2026-02-25 17:08:38,639  INFO      download_manager  yt-dlp binary update: Latest version: stable@2026.02.21 from yt-dlp/yt-dlp
+yt-dlp is up to date (stable@2026.02.21 from yt
+2026-02-25 17:09:16,072  INFO      server  Received download request: YouTube
+2026-02-25 17:09:16,072  INFO      server  URL: https://www.youtube.com/watch?v=XkSX45-SRZ4&list=RDLLe_JcUE72M&index=2
+2026-02-25 17:09:16,073  INFO      server  Type: video, Quality: 1080p, Format: mp4
+2026-02-25 17:09:16,073  INFO      server  Playlist: False
+2026-02-25 17:09:16,073  INFO      download_manager  Queued  [cd45d29d]  YouTube
+2026-02-25 17:09:16,527  INFO      download_manager  Starting [cd45d29d] YouTube
+2026-02-25 17:09:28,032  INFO      download_manager  Completed [cd45d29d] YouTube
+2026-02-25 17:09:38,654  INFO      download_manager  DownloadManager shutdown requested
+2026-02-25 17:24:40,628  INFO      download_manager  ffmpeg found: D:\App  folder\Downloads\bin\ffmpeg.EXE
+2026-02-25 17:24:40,628  INFO      download_manager  yt-dlp binary found: D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Scripts\yt-dlp.EXE
+2026-02-25 17:24:40,628  INFO      download_manager  DownloadManager ready  dir=C:\Users\Mohammod Mizan\Downloads\PyFlowPro_Downloads  max_concurrent=3
+2026-02-25 17:24:45,702  INFO      download_manager  Background yt-dlp update started
+2026-02-25 17:24:47,993  INFO      download_manager  yt-dlp library updated  → v2026.02.21
+2026-02-25 17:24:49,243  INFO      download_manager  yt-dlp binary update: Latest version: stable@2026.02.21 from yt-dlp/yt-dlp
+yt-dlp is up to date (stable@2026.02.21 from yt
+2026-02-25 17:25:02,738  INFO      server  Received download request: YouTube
+2026-02-25 17:25:02,738  INFO      server  URL: https://www.youtube.com/watch?v=e8PetL8x6_I&list=RDLLe_JcUE72M&index=3
+2026-02-25 17:25:02,738  INFO      server  Type: video, Quality: 1080p, Format: mp4
+2026-02-25 17:25:02,738  INFO      server  Playlist: False
+2026-02-25 17:25:02,756  INFO      download_manager  Queued  [1537a025]  YouTube
+2026-02-25 17:25:03,120  INFO      download_manager  Starting [1537a025] YouTube
+2026-02-25 17:25:14,948  INFO      download_manager  Completed [1537a025] YouTube
+2026-02-25 17:26:18,747  INFO      server  Received download request: (20+) Facebook
+2026-02-25 17:26:18,747  INFO      server  URL: https://www.facebook.com/share/v/16zZt8mjZ2/
+2026-02-25 17:26:18,747  INFO      server  Type: video, Quality: 1080p, Format: mp4
+2026-02-25 17:26:18,747  INFO      server  Playlist: False
+2026-02-25 17:26:18,748  INFO      download_manager  Queued  [8bc460c2]  (20+) Facebook
+2026-02-25 17:26:18,910  INFO      download_manager  Starting [8bc460c2] (20+) Facebook
+2026-02-25 17:26:25,321  INFO      download_manager  Completed [8bc460c2] (20+) Facebook
+2026-02-25 17:30:30,641  INFO      download_manager  DownloadManager shutdown requested
+2026-02-25 17:30:33,485  INFO      download_manager  ffmpeg found: D:\App  folder\Downloads\bin\ffmpeg.EXE
+2026-02-25 17:30:33,485  INFO      download_manager  yt-dlp binary found: D:\Program folder\Python\Python_Choaracters\Downloder_Project\PyFlow_CLI_v2.0.1\venv\Scripts\yt-dlp.EXE
+2026-02-25 17:30:33,485  INFO      download_manager  DownloadManager ready  dir=C:\Users\Mohammod Mizan\Downloads\PyFlowPro_Downloads  max_concurrent=3
+2026-02-25 17:30:38,560  INFO      download_manager  Background yt-dlp update started
+2026-02-25 17:30:40,675  INFO      download_manager  yt-dlp library updated  → v2026.02.21
+2026-02-25 17:30:42,291  INFO      download_manager  yt-dlp binary update: Latest version: stable@2026.02.21 from yt-dlp/yt-dlp
+yt-dlp is up to date (stable@2026.02.21 from yt
+2026-02-25 17:32:45,512  INFO      download_manager  DownloadManager shutdown requested
